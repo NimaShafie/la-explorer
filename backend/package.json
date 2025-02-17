@@ -1,0 +1,16 @@
+{
+    "name": "la-explorer-backend",
+    "version": "0.1.0",
+    "main": "index.js",
+    "license": "Apache License 2.0",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.0",
+      "express": "^4.18.2"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+  
